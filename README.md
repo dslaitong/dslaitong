@@ -1,7 +1,7 @@
 <!-- Presentación de una imagen centrada en la página -->
 <p align="center">
   <!-- Imagen que se va a mostrar en el centro de la página, el tamaño de la imagen se ajusta con los atributos "width" y "height" -->
-  <img src="https://github.com/user-attachments/assets/282a0f93-0624-43a7-9311-994813ed4327" alt="David Laiton" width="300px" height="200px" />
+  <img src="" alt="David Laiton" width="300px" height="200px" />
 </p>
 
 <!-- Añadir un mensaje animado de escritura en el centro -->
