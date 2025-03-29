@@ -1,42 +1,71 @@
-<!-- Presentación de una imagen centrada en la página -->
-<p align="center">
-  <!-- Imagen que se va a mostrar en el centro de la página, el tamaño de la imagen se ajusta con los atributos "width" y "height" -->
-  <img src="" alt="David Laiton" width="300px" height="200px" />
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!-- Añadir un mensaje animado de escritura en el centro -->
-<p align="center">
-  <!-- Se utiliza el servicio de "readme-typing-svg" para crear un efecto de escritura animada con texto -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Vivir%20creando%20,%20crear%20viviendo&font=Fira%20Code&center=true&width=440&height=45&color=0139ff&vCenter=true&pause=1000&size=22" />
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/davidlaitong/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-
-<!-- Enlaces de redes sociales con iconos -->
-<p align="center">
-  <!-- Enlace al perfil de LinkedIn con un icono -->
-  <a href="https://www.linkedin.com/in/davidlaitong/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0139ff"/>
+  <a href="https://www.instagram.com/_davidlaiton_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaciado entre los iconos -->
-  <!-- Enlace al perfil de Instagram con un icono -->
-  <a href="https://www.instagram.com/_davidlaiton_/">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=32292&format=png&color=0139ff"/>
+  <a href="https://www.threads.net/@_davidlaiton_?xmt=AQGzMcojmnMuTGT5xTL2zsbhCac7htGklbI_exKEBNu9Oi0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- Espaciado entre los iconos -->
-</p>
+</div>
 
-<!-- Comentarios que indican qué se puede hacer con este repositorio -->
-<!--
-**dslaitong/dslaitong** es un repositorio especial porque su archivo `README.md` aparece en el perfil de GitHub.
+###
 
-Algunas ideas para empezar:
-- 🔭 Estoy trabajando actualmente en...
-- 🌱 Estoy aprendiendo actualmente...
-- 👯 Busco colaborar en...
-- 🤔 Busco ayuda con...
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme:...
-- 😄 Pronombres:...
-- ⚡ Un dato curioso:...
--->
+<h1 align="center">En progreso...👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Soy David y ya casi soy Ingeniero <br><br>- 🔭 Estoy Trabando con la Rasberry pi 5<br>- 📚 Estoy estudiando bases de datos, además trabajo con Python <br>- ⚡ Me gusta la Ciberseguidad y la Electrónica</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
